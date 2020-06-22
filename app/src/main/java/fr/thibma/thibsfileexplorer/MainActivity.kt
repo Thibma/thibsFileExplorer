@@ -12,7 +12,6 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
-import androidx.core.net.toUri
 import androidx.recyclerview.widget.LinearLayoutManager
 import fr.thibma.thibsfileexplorer.models.File
 import fr.thibma.thibsfileexplorer.models.Folder
