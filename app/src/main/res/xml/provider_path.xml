@@ -1,0 +1,6 @@
+<paths xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="NamespaceTypo">
+    <external-path
+        name="external_files"
+        path="."/>
+</paths>

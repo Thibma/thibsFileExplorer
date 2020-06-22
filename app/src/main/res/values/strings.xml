@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thib\'s File Explorer</string>
+
+    <string name="nothing">Il n\'y a rien ici !</string>
+    <string name="folderEmpty">Dossier vide.</string>
+
+    <string name="icon_arrow">icon_arrow</string>
+    <string name="icon_folder">icon_folder</string>
+    <string name="icon_file">icon_file</string>
+</resources>
